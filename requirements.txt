@@ -4,5 +4,4 @@ numpy
 matplotlib
 DateTime
 plotly
-PIL
 openpyxl
